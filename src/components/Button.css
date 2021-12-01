@@ -1,5 +1,6 @@
 :root {
   --primary: #fff;
+  
 }
 
 .btn {
@@ -9,12 +10,16 @@
   border: none;
   cursor: pointer;
   white-space: nowrap;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .btn--primary {
   background-color: var(--primary);
   color: #242424;
   border: 1px solid var(--primary);
+  align-items: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  
 }
 
 .btn--outline {
@@ -23,16 +28,21 @@
   padding: 8px 20px;
   border: 1px solid var(--primary);
   transition: all 0.3s ease-out;
+  align-items: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .btn--medium {
   padding: 8px 20px;
   font-size: 18px;
+  align-items: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .btn--large {
   padding: 12px 26px;
   font-size: 20px;
+  margin-bottom: 15px;
 }
 
 .btn--mobile {
@@ -43,13 +53,14 @@
   font-size: 1.5rem;
   background-color: transparent;
   color: #fff;
-  padding: 14px 20px;
+  padding: 16px 20px;
   border: 1px solid #fff;
   transition: all 0.3s ease-out;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .btn--wide {
-  padding: 12px 64px;
+  padding: 14px 64px;
   font-size: 20px;
 }
 
@@ -75,6 +86,7 @@
   padding: 8px 16px;
   height: 100%;
   width: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .blue {

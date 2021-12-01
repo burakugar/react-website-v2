@@ -24,12 +24,15 @@ export const Button = ({
   const checkButtonColor = COLOR.includes(buttonColor) ? buttonColor : null;
 
   return (
+
     <button
       className={`btn ${checkButtonStyle} ${checkButtonSize} ${checkButtonColor}`}
       onClick={onClick}
       type={type}
+      style={{marginTop:15}} 
     >
       {children}
     </button>
+
   );
 };

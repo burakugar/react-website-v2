@@ -33,20 +33,22 @@
 
 .top-line {
   color: #f00946;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 16px;
   font-weight: 700;
   letter-spacing: 1.4px;
   text-transform: uppercase;
   margin-bottom: 16px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .heading {
-  margin-bottom: 24px;
-  font-size: 48px;
+  margin-bottom: 18px;
+  font-size: 40px;
   line-height: 1.1;
   font-weight: 600;
   color: #f7f8fa;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .dark {
@@ -59,7 +61,7 @@
 
 .home__hero-subtitle {
   max-width: 440px;
-  margin-bottom: 35px;
+  margin-bottom: 40px;
   font-size: 18px;
   line-height: 24px;
 }
@@ -81,6 +83,7 @@ img {
   max-width: 100%;
   vertical-align: middle;
   display: inline-block;
+  
 }
 
 @media screen and (max-width: 991px) {
@@ -100,3 +103,4 @@ img {
     flex-basis: 100%;
   }
 }
+

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c638a82b.chunk.css",
+    "main.js": "/static/js/main.f62d7e9b.chunk.js",
+    "main.js.map": "/static/js/main.f62d7e9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
+    "static/js/2.455bd33b.chunk.js": "/static/js/2.455bd33b.chunk.js",
+    "static/js/2.455bd33b.chunk.js.map": "/static/js/2.455bd33b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bad8d1d2f27f1d344135166e6954854a.js": "/precache-manifest.bad8d1d2f27f1d344135166e6954854a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c638a82b.chunk.css.map": "/static/css/main.c638a82b.chunk.css.map",
+    "static/js/2.455bd33b.chunk.js.LICENSE.txt": "/static/js/2.455bd33b.chunk.js.LICENSE.txt",
+    "static/media/we.gif": "/static/media/we.6011960b.gif",
+    "static/media/we_3.gif": "/static/media/we_3.bb6f012f.gif",
+    "static/media/we_5.png": "/static/media/we_5.f833482b.png",
+    "static/media/welogo.png": "/static/media/welogo.894d22a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba1596e.js",
+    "static/js/2.455bd33b.chunk.js",
+    "static/css/main.c638a82b.chunk.css",
+    "static/js/main.f62d7e9b.chunk.js"
+  ]
+}

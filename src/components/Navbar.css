@@ -8,12 +8,14 @@
   position: sticky;
   top: 0;
   z-index: 999;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .navbar-container {
   display: flex;
   justify-content: space-between;
   height: 80px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .container {
@@ -24,6 +26,7 @@
   margin-left: auto;
   padding-right: 50px;
   padding-left: 50px;
+
 }
 
 .navbar-logo {
@@ -46,7 +49,8 @@
   justify-content: center;
   list-style: none;
   text-align: center;
-  justify-content: end;
+  justify-content: flex-start;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .nav-item {
@@ -65,6 +69,7 @@
   text-decoration: none;
   padding: 0.5rem 1rem;
   height: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .fa-bars {
@@ -105,6 +110,7 @@
     padding: 2rem;
     width: 100%;
     display: table;
+    font-family: 'Roboto Condensed', sans-serif;
   }
 
   .nav-links:hover {
